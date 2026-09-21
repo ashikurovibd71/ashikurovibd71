@@ -22,7 +22,7 @@
 
 ```ts
 const aftabFarhan = {
-  name        : "Aftab Farhan ARKO",
+  name        : "Ashikur Rahman Ovi",
   role        : "Full-Stack Web Developer",
   location    : "Bangladesh 🇧🇩",
   experience  : "Working on real-world client projects",
