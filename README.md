@@ -4,8 +4,6 @@
 <br/><br/>
 
 
-<img src="https://komarev.com/ghpvc/?username=AftabFarhanArko&style=for-the-badge&color=3BC3FF&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
